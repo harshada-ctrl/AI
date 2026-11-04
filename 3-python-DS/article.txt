@@ -1,0 +1,19 @@
+Artificial Intelligence (AI) is changing the world rapidly. AI is used in
+healthcare, education, finance, agriculture, and manufacturing.
+
+Machine learning is a branch of Artificial Intelligence. Machine learning
+helps computers learn from data without being explicitly programmed.
+
+Python is one of the most popular programming languages for Artificial
+Intelligence and Data Science. Python provides powerful libraries such as
+NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, and Keras.
+
+Data Science involves collecting, cleaning, analyzing, and visualizing data.
+Good quality data helps build accurate machine learning models.
+
+Python is easy to learn, easy to read, and easy to use. Many students and
+professionals choose Python because it is simple, powerful, and versatile.
+
+Artificial Intelligence and Machine Learning are creating exciting career
+opportunities across many industries. Learning Python and Data Science can
+help students build successful careers.

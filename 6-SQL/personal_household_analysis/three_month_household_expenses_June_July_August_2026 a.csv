@@ -1,0 +1,64 @@
+expense_id,expense_date,subcategory,member,vendor,payment_method,amount,quantity,description,is_recurring,due_date,paid_status
+1,02-06-2026,Grocery,Harshada,D-Mart,UPI,800,1,Grocery expense for April 2026,FALSE,,Paid
+2,10-06-2026,Grocery,Harshada,D-Mart,Cash,650,1,Grocery expense for April 2026,FALSE,,Paid
+3,22-06-2026,Grocery,Harshada,D-Mart,UPI,550,1,Grocery expense for April 2026,FALSE,,Paid
+4,02-06-2026,Vegetables,Harshada,,Cash,80,1,Vegetables expense for April 2026,FALSE,,Paid
+5,10-06-2026,Vegetables,Harshada,,UPI,70,1,Vegetables expense for April 2026,FALSE,,Paid
+6,22-06-2026,Vegetables,Harshada,,Cash,50,1,Vegetables expense for April 2026,FALSE,,Paid
+7,02-06-2026,Milk,Husband,,Cash,100,1,Milk expense for April 2026,FALSE,,Paid
+8,10-06-2026,Milk,Husband,,Cash,100,1,Milk expense for April 2026,FALSE,,Paid
+9,22-06-2026,Milk,Husband,,UPI,100,1,Milk expense for April 2026,FALSE,,Paid
+10,05-06-2026,Electricity,Husband,Corporation,UPI,500,1,Electricity expense for April 2026,TRUE,,Paid
+11,07-06-2026,WiFi,Husband,Airtel,UPI,700,1,WiFi expense for April 2026,TRUE,,Paid
+12,08-06-2026,Mobile Recharge,Harshada,Jio,UPI,400,1,Mobile Recharge expense for April 2026,TRUE,,Paid
+13,23-06-2026,Mobile Recharge,Harshada,Jio,UPI,450,1,Mobile Recharge expense for April 2026,TRUE,,Paid
+14,08-06-2026,Petrol,Husband,HP Petrol Pump,UPI,300,1,Petrol expense for April 2026,FALSE,,Paid
+15,23-06-2026,Petrol,Husband,HP Petrol Pump,Debit Card,300,1,Petrol expense for April 2026,FALSE,,Paid
+16,12-06-2026,Medical,Harshada,Medicos,Cash,500,1,Medical expense for April 2026,FALSE,,Paid
+17,10-06-2026,Class Fees,Harshada,AIgenius,Bank Transfer,20000,1,Class Fees expense for April 2026,TRUE,,Paid
+18,15-06-2026,House Maintenance,Husband,,Bank Transfer,12000,1,House Maintenance expense for April 2026,TRUE,,Paid
+19,20-06-2026,Car EMI,Husband,Sai Automobiles,Bank Transfer,20000,1,Car EMI expense for April 2026,TRUE,,Paid
+20,08-06-2026,Eating Outside,Harshada,Blackstone Hotel,UPI,600,1,Eating Outside expense for April 2026,FALSE,,Paid
+21,23-06-2026,Eating Outside,Harshada,Blackstone Hotel,Cash,400,1,Eating Outside expense for April 2026,FALSE,,Paid
+22,02-07-2026,Grocery,Harshada,D-Mart,UPI,800,1,Grocery expense for May 2026,FALSE,,Paid
+23,10-07-2026,Grocery,Harshada,D-Mart,Cash,650,1,Grocery expense for May 2026,FALSE,,Paid
+24,22-07-2026,Grocery,Harshada,D-Mart,UPI,550,1,Grocery expense for May 2026,FALSE,,Paid
+25,02-07-2026,Vegetables,Harshada,,Cash,80,1,Vegetables expense for May 2026,FALSE,,Paid
+26,10-07-2026,Vegetables,Harshada,,UPI,70,1,Vegetables expense for May 2026,FALSE,,Paid
+27,22-07-2026,Vegetables,Harshada,,Cash,50,1,Vegetables expense for May 2026,FALSE,,Paid
+28,02-07-2026,Milk,Husband,,Cash,100,1,Milk expense for May 2026,FALSE,,Paid
+29,10-07-2026,Milk,Husband,,Cash,100,1,Milk expense for May 2026,FALSE,,Paid
+30,22-07-2026,Milk,Husband,,UPI,100,1,Milk expense for May 2026,FALSE,,Paid
+31,05-07-2026,Electricity,Husband,Corporation,UPI,500,1,Electricity expense for May 2026,TRUE,,Paid
+32,07-07-2026,WiFi,Husband,Airtel,UPI,700,1,WiFi expense for May 2026,TRUE,,Paid
+33,08-07-2026,Mobile Recharge,Harshada,Jio,UPI,400,1,Mobile Recharge expense for May 2026,TRUE,,Paid
+34,23-07-2026,Mobile Recharge,Harshada,Jio,UPI,450,1,Mobile Recharge expense for May 2026,TRUE,,Paid
+35,08-07-2026,Petrol,Husband,HP Petrol Pump,UPI,300,1,Petrol expense for May 2026,FALSE,,Paid
+36,23-07-2026,Petrol,Husband,HP Petrol Pump,Debit Card,300,1,Petrol expense for May 2026,FALSE,,Paid
+37,12-07-2026,Medical,Harshada,Medicos,Cash,500,1,Medical expense for May 2026,FALSE,,Paid
+38,10-07-2026,Class Fees,Harshada,AIgenius,Bank Transfer,20000,1,Class Fees expense for May 2026,TRUE,,Paid
+39,15-07-2026,House Maintenance,Husband,,Bank Transfer,12000,1,House Maintenance expense for May 2026,TRUE,,Paid
+40,20-07-2026,Car EMI,Husband,Sai Automobiles,Bank Transfer,20000,1,Car EMI expense for May 2026,TRUE,,Paid
+41,08-07-2026,Eating Outside,Harshada,Blackstone Hotel,UPI,600,1,Eating Outside expense for May 2026,FALSE,,Paid
+42,23-07-2026,Eating Outside,Harshada,Blackstone Hotel,Cash,400,1,Eating Outside expense for May 2026,FALSE,,Paid
+43,02-08-2026,Grocery,Harshada,D-Mart,UPI,800,1,Grocery expense for June 2026,FALSE,,Paid
+44,10-08-2026,Grocery,Harshada,D-Mart,Cash,650,1,Grocery expense for June 2026,FALSE,,Paid
+45,22-08-2026,Grocery,Harshada,D-Mart,UPI,550,1,Grocery expense for June 2026,FALSE,,Paid
+46,02-08-2026,Vegetables,Harshada,,Cash,80,1,Vegetables expense for June 2026,FALSE,,Paid
+47,10-08-2026,Vegetables,Harshada,,UPI,70,1,Vegetables expense for June 2026,FALSE,,Paid
+48,22-08-2026,Vegetables,Harshada,,Cash,50,1,Vegetables expense for June 2026,FALSE,,Paid
+49,02-08-2026,Milk,Husband,,Cash,100,1,Milk expense for June 2026,FALSE,,Paid
+50,10-08-2026,Milk,Husband,,Cash,100,1,Milk expense for June 2026,FALSE,,Paid
+51,22-08-2026,Milk,Husband,,UPI,100,1,Milk expense for June 2026,FALSE,,Paid
+52,05-08-2026,Electricity,Husband,Corporation,UPI,500,1,Electricity expense for June 2026,TRUE,,Paid
+53,07-08-2026,WiFi,Husband,Airtel,UPI,700,1,WiFi expense for June 2026,TRUE,,Paid
+54,08-08-2026,Mobile Recharge,Harshada,Jio,UPI,400,1,Mobile Recharge expense for June 2026,TRUE,,Paid
+55,23-08-2026,Mobile Recharge,Harshada,Jio,UPI,450,1,Mobile Recharge expense for June 2026,TRUE,,Paid
+56,08-08-2026,Petrol,Husband,HP Petrol Pump,UPI,300,1,Petrol expense for June 2026,FALSE,,Paid
+57,23-08-2026,Petrol,Husband,HP Petrol Pump,Debit Card,300,1,Petrol expense for June 2026,FALSE,,Paid
+58,12-08-2026,Medical,Harshada,Medicos,Cash,500,1,Medical expense for June 2026,FALSE,,Paid
+59,10-08-2026,Class Fees,Harshada,AIgenius,Bank Transfer,20000,1,Class Fees expense for June 2026,TRUE,,Paid
+60,15-08-2026,House Maintenance,Husband,,Bank Transfer,12000,1,House Maintenance expense for June 2026,TRUE,,Paid
+61,20-08-2026,Car EMI,Husband,Sai Automobiles,Bank Transfer,20000,1,Car EMI expense for June 2026,TRUE,,Paid
+62,08-08-2026,Eating Outside,Harshada,Blackstone Hotel,UPI,600,1,Eating Outside expense for June 2026,FALSE,,Paid
+63,23-08-2026,Eating Outside,Harshada,Blackstone Hotel,Cash,400,1,Eating Outside expense for June 2026,FALSE,,Paid
